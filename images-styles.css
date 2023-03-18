@@ -1,0 +1,86 @@
+body {
+    background-color: rgb(229, 217, 240);
+    height: 1850px;
+    width: 1250px;
+}
+header {
+    text-align: center;
+    background-color: rgb(172, 138, 163);
+    background-attachment: fixed;
+}
+#nav {
+	display: flex;
+	justify-content: center;
+	background-color: black;
+	box-shadow: 0px 2px 5px rgb(14, 0, 0);
+	margin: 0%;
+} 
+#nav a {
+	color: rgb(212, 199, 199);
+	text-decoration: none;
+	font-size: 15px;
+	
+	width: 150px;
+
+	display: block;
+
+	padding-top: 10px;
+	padding-bottom: 10px;
+	text-align: left;
+	
+	border-bottom: 1px solid rgb(162, 163, 67);
+} 
+#nav a:hover {
+	color: rgb(250, 170, 143);
+	border-bottom: 2px solid rgb(250, 170, 143);
+}
+h2 {
+    color: rgb(71, 63, 121);
+    text-align: center;
+}
+.bts-images {
+    display: flex;
+}
+.elnaz {
+    border-style: double;
+    border-width: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+
+}
+.elnaz img{
+    width: 400px;
+}
+.bts-song {
+    border-style: double;
+    border-width: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+
+}
+.bts-song img{
+    width: 355px;
+}
+.bts-albums {
+    border-style: double;
+    border-width: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+
+}
+.bts-albums img{
+    width: 325px;
+}
+footer {
+	
+	text-align: center;
+    font-size: medium;
+    color:azure;
+    background-color:rgb(14, 0, 0);
+}

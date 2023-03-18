@@ -1,0 +1,43 @@
+body {
+     background-color:  rgb(229, 217, 240);
+    }
+header {
+     text-align: center;
+     background-color: rgb(172, 138, 163);
+     background-attachment: fixed;
+}
+
+p {
+    text-align: center;
+}
+label {
+    display: block;
+}
+.dress {
+    display: inline;    
+}
+.dolls {
+    display: inline;
+}
+form {
+    background-color: rgb(211, 152, 195);
+    margin-left: auto;
+    margin-right: auto;
+    height: 450px;
+    width: 858px;
+    font-size: 20px;
+    padding: 20px;
+    }
+button {
+    display: block
+}
+select {
+    background-color: rgb(231, 147, 186);
+}
+footer {
+	
+	text-align: center;
+    font-size: medium;
+    color:azure;
+    background-color:rgb(14, 0, 0);
+}

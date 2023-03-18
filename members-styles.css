@@ -1,0 +1,106 @@
+header {
+    text-align: center;
+    background-color: rgb(172, 138, 163);
+    background-attachment: fixed;
+}
+body {
+	background-color: rgb(229, 217, 240);
+    
+   
+}
+#nav {
+	display: flex;
+	justify-content: center;
+	background-color: black;
+	box-shadow: 0px 2px 5px rgb(14, 0, 0);
+	margin: 0%;
+} 
+#nav a {
+	color: rgb(212, 199, 199);
+	text-decoration: none;
+	font-size: 15px;
+	
+	width: 150px;
+
+	display: block;
+
+	padding-top: 10px;
+	padding-bottom: 10px;
+	text-align: left;
+	
+	border-bottom: 1px solid rgb(162, 163, 67);
+} 
+#nav a:hover {
+	color: rgb(250, 170, 143);
+	border-bottom: 2px solid rgb(250, 170, 143);
+}
+
+.members {
+    width: 1150px;
+    height: 5750px 
+}
+footer {
+	
+	text-align: center;
+font-size: medium;
+color:azure;
+background-color:rgb(14, 0, 0);
+}
+#jungkook {
+	padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 200;
+	
+}
+#jimin {
+	padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    width: 200;
+	
+}
+#Taehyung {
+	padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 200;
+	
+}
+#J-Hope {
+	padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 200;
+	
+}
+#Suga {
+	padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 200;
+	
+}
+#Jin {
+	padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 200;
+	
+}
+#RM {
+	padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 200;
+	
+}
+
+
